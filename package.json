@@ -1,0 +1,19 @@
+{
+  "name": "bem-3d-button-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dustyo-O/bem-3d-button-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dustyo-O/bem-3d-button-example/issues"
+  },
+  "homepage": "https://github.com/dustyo-O/bem-3d-button-example#readme"
+}
